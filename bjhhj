@@ -1,0 +1,6 @@
+git config --global user.name "nithinkolanu19"
+
+git config --global user.mail "nithinkolanu111@gmail.com"
+
+git config --global color.ui auto
+
